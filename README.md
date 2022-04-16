@@ -1,2 +1,2 @@
 # Voucher-redeem
-pip install cloudscraper
+```pip install cloudscraper```
